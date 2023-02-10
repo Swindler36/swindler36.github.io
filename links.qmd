@@ -1,0 +1,43 @@
+---
+title: "Links"
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/furkan-zerman-6592851b4
+    - icon: github
+      text: Github
+      href: https://github.com/Swindler36
+    - text: Dev Blog
+      href: https://swindler36.github.io/blog/
+    - text: GDBeginner
+      href: http://gdbeginner.com/
+    - text: Kapseli
+      href: https://kapseli.stingydev.com/
+    - text: Kabina
+      href: https://kabina.stingydev.com/
+    - text: dbBuilder.py
+      href: https://swindler36.github.io/dbBuilder.py/
+    - icon: medium
+      text: Medium
+      href: https://medium.com/stingy-developer
+    - text: Stingy Notes
+      href: https://stingy-notes.blogspot.com/
+    - text: itch.io
+      href: https://stingydeveloper.itch.io/
+    - icon: youtube
+      text: GalGodot
+      href: https://www.youtube.com/channel/UCVkMXy5euZQA8cUkpTew4jA
+    - icon: patreon
+      text: Patreon
+      href: https://www.patreon.com/stingydev
+
+    - icon: kreosus
+      text: Kreosus
+      href: https://kreosus.com/stingydev
+
+    - icon: buymeacoffee
+      text: Buy Me A Coffee
+      href: https://www.buymeacoffee.com/stingydev
+---

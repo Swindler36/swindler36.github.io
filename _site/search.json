@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "posts/kapseli/index.html",
+    "href": "posts/kapseli/index.html",
+    "title": "Kapseli",
+    "section": "",
+    "text": "Cover Image\nA Framework for creating a SPA dashboard application. Designed for performance and flexibility."
+  },
+  {
+    "objectID": "posts/kapseli/index.html#features",
+    "href": "posts/kapseli/index.html#features",
+    "title": "Kapseli",
+    "section": "Features",
+    "text": "Features\n\nLow Level API\nKapseli enables its low-level api to modify and extend. It has large scale Event-Listen-Network. You can use and listen all events thanks of this API.\n\n\nExtendible Structure\nThanks of Low Level API of Kapseli, you can extend, even overwrite, its core functionality.\n\n\nVarious UI Packages\nAren’t you designer? Don’t worry. Our plugin repository is rich. There are premium and free packages. If you want complicated and easy to use components, try premium packages. We will continue release new UI packages. Be patient.\n\n\nAuto Form AJAX\nKapseli has a connection with its storage manager to store form data automatically when the form is submitted. With this feature, collect data is pie.\n\n\nBuilt-in Route System\nKapseli has built-in auto init router. Only register your pages. Routing is the task of Kapseli. Don’t worry!\n\n\nCustomizable HTML Render Engine\nKapseli has its own HTML Render Engine. No dependency! This engine is powered by Event-Listen-Network of Kapseli. You can customize it by using this network and the loew level API.\nDocumentation: https://kapseli.stingydev.com/\nGitHub Repo: https://github.com/Stingy-Developer/Kapseli-UI-Framework"
+  },
+  {
+    "objectID": "posts/dbBuilder.py/index.html",
+    "href": "posts/dbBuilder.py/index.html",
+    "title": "dbBuilder.py",
+    "section": "",
+    "text": "This is a mini orm library for python. You can manage your sqlite DB by using this library.\nWith django-orm like syntax, it was a good challenge for understand databases and django class structure.\nDocumentation: https://swindler36.github.io/dbBuilder.py/\nGitHub Repo: https://github.com/Swindler36/dbBuilder.py"
+  },
+  {
+    "objectID": "posts/kabina-csm/index.html",
+    "href": "posts/kabina-csm/index.html",
+    "title": "Kabina CMS",
+    "section": "",
+    "text": "Next Gen Content Management System based Node.js. This is an early stage project.\nFor more details, follow the project."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Furkan Zerman",
+    "section": "",
+    "text": "I am Furkan “Stingy Dev” Zerman. A junior web developer and university student. 3+ years experienced on web development (front-end and back-end). 1+ years experinced on mobile app development (react-native). You can find all necessary links in Links Page"
+  },
+  {
+    "objectID": "index.html#my-interests",
+    "href": "index.html#my-interests",
+    "title": "Furkan Zerman",
+    "section": "My Interests",
+    "text": "My Interests"
+  },
+  {
+    "objectID": "index.html#hobies",
+    "href": "index.html#hobies",
+    "title": "Furkan Zerman",
+    "section": "Hobies",
+    "text": "Hobies"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Kapseli\n\n\n\n\n\n\nFurkan Zerman\n\n\n\n\n\n\n\n\n\n\n \n\n\n\ndbBuilder.py\n\n\n\n\n\n\nFurkan Zerman\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nKabina CMS\n\n\n\n\n\n\nFurkan Zerman\n\n\n\n\n\n\n\n\nNo matching items"
+  }
+]

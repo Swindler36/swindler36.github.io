@@ -1,0 +1,9 @@
+---
+title: "Kabina CMS"
+author: "Furkan Zerman"
+categories: [CMS, Node.js]
+---
+
+Next Gen Content Management System based Node.js. This is an early stage project. 
+
+For more details, follow the project.

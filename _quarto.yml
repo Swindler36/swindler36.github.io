@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "Furkan Zerman"
+  favicon: logo.jpeg
+  open-graph: true
+  twitter-card: true
+  site-url: swindler36.github.io
+  navbar:
+    left:
+      - projects.qmd
+      - links.qmd
+    right:
+      - icon: github
+        href: https://github.com/Swindler36
+      - icon: linkedin
+        href: https://www.linkedin.com/in/furkan-zerman-6592851b4
+format:
+  html:
+    theme: darkly
+    css: styles.css
+
+
+
