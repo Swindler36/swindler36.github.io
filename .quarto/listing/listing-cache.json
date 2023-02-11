@@ -1,6 +1,9 @@
 {
   "listingMap": {
     "projects.qmd": [
+      "projects"
+    ],
+    "posts.qmd": [
       "posts"
     ]
   }

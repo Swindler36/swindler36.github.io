@@ -1,0 +1,18 @@
+---
+title: "Observer Pattern in JavaScript"
+author: "Furkan Zerman"
+categories: [Observer, JS]
+---
+
+```js
+var targetObj = {};
+var targetProxy = new Proxy(targetObj, {
+ set: function (target, key, value) {
+ console.log(`${key} set to ${value}`);
+ target[key] = value;
+ return true;
+ }
+});
+
+targetProxy.hello_world = "test"; // console: 'hello_world set to test'
+```

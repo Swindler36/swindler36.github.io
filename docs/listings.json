@@ -2,9 +2,24 @@
   {
     "listing": "/projects.html",
     "items": [
-      "/posts/kapseli/index.html",
-      "/posts/dbBuilder.py/index.html",
-      "/posts/kabina-csm/index.html"
+      "/projects/dbBuilder.py.html",
+      "/projects/kapseli.html",
+      "/projects/kabina-csm.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/sass-pattern.html",
+      "/posts/wp-roles.html",
+      "/posts/wp-custom-post-types.html",
+      "/posts/jekyll-plugins.html",
+      "/posts/observer-js.html",
+      "/posts/web-ad-sizes.html",
+      "/posts/blogger-feed.html",
+      "/posts/ckeditor-for-wordpress.html",
+      "/posts/wp-hooks.html",
+      "/posts/detect-shortkey-js.html"
     ]
   }
 ]

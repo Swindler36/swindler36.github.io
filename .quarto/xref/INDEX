@@ -25,5 +25,56 @@
   },
   "links.qmd": {
     "links.html": "31ae0b3c"
+  },
+  "projects/kapseli/index.qmd": {
+    "index.html": "e63a9311"
+  },
+  "projects/dbBuilder.py/index.qmd": {
+    "index.html": "65d5450f"
+  },
+  "projects/kabina-csm/index.qmd": {
+    "index.html": "881dcdfb"
+  },
+  "posts.qmd": {
+    "posts.html": "0b016705"
+  },
+  "posts/jekyll-plugins.qmd": {
+    "jekyll-plugins.html": "d0c8a13b"
+  },
+  "posts/ckeditor-for-wordpress.qmd": {
+    "ckeditor-for-wordpress.html": "9ad37f32"
+  },
+  "posts/sass-pattern.qmd": {
+    "sass-pattern.html": "db183b9b"
+  },
+  "posts/wp-roles.qmd": {
+    "wp-roles.html": "129b1ced"
+  },
+  "posts/wp-custom-post-types.qmd": {
+    "wp-custom-post-types.html": "1782ceed"
+  },
+  "posts/observer-js.qmd": {
+    "observer-js.html": "471a1270"
+  },
+  "posts/web-ad-sizes.qmd": {
+    "web-ad-sizes.html": "512b4e5c"
+  },
+  "posts/blogger-feed.qmd": {
+    "blogger-feed.html": "9f805104"
+  },
+  "posts/wp-hooks.qmd": {
+    "wp-hooks.html": "be5f2475"
+  },
+  "posts/detect-shortkey-js.qmd": {
+    "detect-shortkey-js.html": "89d0a09c"
+  },
+  "projects/dbBuilder.py.qmd": {
+    "dbBuilder.py.html": "8ce5c01f"
+  },
+  "projects/kapseli.qmd": {
+    "kapseli.html": "c1061ffa"
+  },
+  "projects/kabina-csm.qmd": {
+    "kabina-csm.html": "c932c6f7"
   }
 }

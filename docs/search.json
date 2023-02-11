@@ -1,31 +1,150 @@
 [
   {
-    "objectID": "posts/kapseli/index.html",
-    "href": "posts/kapseli/index.html",
-    "title": "Kapseli",
-    "section": "",
-    "text": "Cover Image\nA Framework for creating a SPA dashboard application. Designed for performance and flexibility."
-  },
-  {
-    "objectID": "posts/kapseli/index.html#features",
-    "href": "posts/kapseli/index.html#features",
-    "title": "Kapseli",
-    "section": "Features",
-    "text": "Features\n\nLow Level API\nKapseli enables its low-level api to modify and extend. It has large scale Event-Listen-Network. You can use and listen all events thanks of this API.\n\n\nExtendible Structure\nThanks of Low Level API of Kapseli, you can extend, even overwrite, its core functionality.\n\n\nVarious UI Packages\nAren’t you designer? Don’t worry. Our plugin repository is rich. There are premium and free packages. If you want complicated and easy to use components, try premium packages. We will continue release new UI packages. Be patient.\n\n\nAuto Form AJAX\nKapseli has a connection with its storage manager to store form data automatically when the form is submitted. With this feature, collect data is pie.\n\n\nBuilt-in Route System\nKapseli has built-in auto init router. Only register your pages. Routing is the task of Kapseli. Don’t worry!\n\n\nCustomizable HTML Render Engine\nKapseli has its own HTML Render Engine. No dependency! This engine is powered by Event-Listen-Network of Kapseli. You can customize it by using this network and the loew level API.\nDocumentation: https://kapseli.stingydev.com/\nGitHub Repo: https://github.com/Stingy-Developer/Kapseli-UI-Framework"
-  },
-  {
-    "objectID": "posts/dbBuilder.py/index.html",
-    "href": "posts/dbBuilder.py/index.html",
+    "objectID": "projects/dbBuilder.py.html",
+    "href": "projects/dbBuilder.py.html",
     "title": "dbBuilder.py",
     "section": "",
     "text": "This is a mini orm library for python. You can manage your sqlite DB by using this library.\nWith django-orm like syntax, it was a good challenge for understand databases and django class structure.\nDocumentation: https://swindler36.github.io/dbBuilder.py/\nGitHub Repo: https://github.com/Swindler36/dbBuilder.py"
   },
   {
-    "objectID": "posts/kabina-csm/index.html",
-    "href": "posts/kabina-csm/index.html",
+    "objectID": "projects/kapseli.html",
+    "href": "projects/kapseli.html",
+    "title": "Kapseli",
+    "section": "",
+    "text": "Cover Image\nA Framework for creating a SPA dashboard application. Designed for performance and flexibility."
+  },
+  {
+    "objectID": "projects/kapseli.html#features",
+    "href": "projects/kapseli.html#features",
+    "title": "Kapseli",
+    "section": "Features",
+    "text": "Features\n\nLow Level API\nKapseli enables its low-level api to modify and extend. It has large scale Event-Listen-Network. You can use and listen all events thanks of this API.\n\n\nExtendible Structure\nThanks of Low Level API of Kapseli, you can extend, even overwrite, its core functionality.\n\n\nVarious UI Packages\nAren’t you designer? Don’t worry. Our plugin repository is rich. There are premium and free packages. If you want complicated and easy to use components, try premium packages. We will continue release new UI packages. Be patient.\n\n\nAuto Form AJAX\nKapseli has a connection with its storage manager to store form data automatically when the form is submitted. With this feature, collect data is pie.\n\n\nBuilt-in Route System\nKapseli has built-in auto init router. Only register your pages. Routing is the task of Kapseli. Don’t worry!\n\n\nCustomizable HTML Render Engine\nKapseli has its own HTML Render Engine. No dependency! This engine is powered by Event-Listen-Network of Kapseli. You can customize it by using this network and the loew level API.\nDocumentation: https://kapseli.stingydev.com/\nGitHub Repo: https://github.com/Stingy-Developer/Kapseli-UI-Framework"
+  },
+  {
+    "objectID": "projects/kabina-csm.html",
+    "href": "projects/kabina-csm.html",
     "title": "Kabina CMS",
     "section": "",
     "text": "Next Gen Content Management System based Node.js. This is an early stage project.\nFor more details, follow the project."
+  },
+  {
+    "objectID": "posts/sass-pattern.html",
+    "href": "posts/sass-pattern.html",
+    "title": "The 7–1 Pattern for SASS projects",
+    "section": "",
+    "text": "sass/\n|\n|– abstracts/ (or utilities/)\n|   |– _variables.scss    // Sass Variables\n|   |– _functions.scss    // Sass Functions\n|   |– _mixins.scss       // Sass Mixins\n|\n|– base/\n|   |– _reset.scss        // Reset/normalize\n|   |– _typography.scss   // Typography rules\n|\n|– components/ (or modules/)\n|   |– _buttons.scss      // Buttons\n|   |– _carousel.scss     // Carousel\n|   |– _slider.scss       // Slider\n|\n|– layout/\n|   |– _navigation.scss   // Navigation\n|   |– _grid.scss         // Grid system\n|   |– _header.scss       // Header\n|   |– _footer.scss       // Footer\n|   |– _sidebar.scss      // Sidebar\n|   |– _forms.scss        // Forms\n|\n|– pages/\n|   |– _home.scss         // Home specific styles\n|   |– _about.scss        // About specific styles\n|   |– _contact.scss      // Contact specific styles\n|\n|– themes/\n|   |– _theme.scss        // Default theme\n|   |– _admin.scss        // Admin theme\n|\n|– vendors/\n|   |– _bootstrap.scss    // Bootstrap\n|   |– _jquery-ui.scss    // jQuery UI\n|\n`– main.scss              // Main Sass file"
+  },
+  {
+    "objectID": "posts/wp-roles.html",
+    "href": "posts/wp-roles.html",
+    "title": "Wp Role Functions",
+    "section": "",
+    "text": "// get roles\nfunction get_editable_roles() {\n    global $wp_roles;\n\n    $all_roles = $wp_roles->roles;\n    $editable_roles = apply_filters('editable_roles', $all_roles);\n\n    return $editable_roles;\n}"
+  },
+  {
+    "objectID": "posts/wp-roles.html#add-roles",
+    "href": "posts/wp-roles.html#add-roles",
+    "title": "Wp Role Functions",
+    "section": "Add Roles",
+    "text": "Add Roles\nfunction wporg_simple_role() {\n    add_role(\n        'simple_role',\n        'Simple Role',\n        array(\n            'read'         => true,\n            'edit_posts'   => true,\n            'upload_files' => true,\n        ),\n    );\n}\nadd_action( 'init', 'wporg_simple_role' );"
+  },
+  {
+    "objectID": "posts/wp-roles.html#remove-roles",
+    "href": "posts/wp-roles.html#remove-roles",
+    "title": "Wp Role Functions",
+    "section": "Remove Roles",
+    "text": "Remove Roles\n// removing roles\nfunction wporg_simple_role_remove() {\n    remove_role( 'simple_role' );\n}\nadd_action( 'init', 'wporg_simple_role_remove' );"
+  },
+  {
+    "objectID": "posts/wp-roles.html#add-capabilities",
+    "href": "posts/wp-roles.html#add-capabilities",
+    "title": "Wp Role Functions",
+    "section": "Add Capabilities",
+    "text": "Add Capabilities\n// adding capabilities\nfunction wporg_simple_role_caps() {\n    $role = get_role( 'simple_role' );\n \n    $role->add_cap( 'edit_others_posts', true ); // for removing capability remove_cap() \n}\nadd_action( 'init', 'wporg_simple_role_caps' );"
+  },
+  {
+    "objectID": "posts/wp-roles.html#get-roles-1",
+    "href": "posts/wp-roles.html#get-roles-1",
+    "title": "Wp Role Functions",
+    "section": "Get Roles",
+    "text": "Get Roles\n// get role\nget_role( $role );"
+  },
+  {
+    "objectID": "posts/wp-roles.html#check-user-capacibility",
+    "href": "posts/wp-roles.html#check-user-capacibility",
+    "title": "Wp Role Functions",
+    "section": "Check User Capacibility",
+    "text": "Check User Capacibility\n// Check if a user have a specified role or capability with user_can().\nuser_can( $user, $capability );"
+  },
+  {
+    "objectID": "posts/wp-roles.html#check-current-user-capacibility",
+    "href": "posts/wp-roles.html#check-current-user-capacibility",
+    "title": "Wp Role Functions",
+    "section": "Check Current User Capacibility",
+    "text": "Check Current User Capacibility\n// current_user_can() is a wrapper function for user_can() using the current user object as the $user parameter.\ncurrent_user_can( $capability );"
+  },
+  {
+    "objectID": "posts/wp-custom-post-types.html",
+    "href": "posts/wp-custom-post-types.html",
+    "title": "WordPress Custom Post Type",
+    "section": "",
+    "text": "function post_type_project() {\n \n// Set UI labels for Custom Post Type\n    $labels = array(\n        'name'                => _x( 'Projects', 'Post Type General Name', 'zerman' ),\n        'singular_name'       => _x( 'Project', 'Post Type Singular Name', 'zerman' ),\n        'menu_name'           => __( 'Projects', 'zerman' ),\n        'parent_item_colon'   => __( 'Parent Project', 'zerman' ),\n        'all_items'           => __( 'All Projects', 'zerman' ),\n        'view_item'           => __( 'View Project', 'zerman' ),\n        'add_new_item'        => __( 'Add New Project', 'zerman' ),\n        'add_new'             => __( 'Add New', 'zerman' ),\n        'edit_item'           => __( 'Edit Project', 'zerman' ),\n        'update_item'         => __( 'Update Project', 'zerman' ),\n        'search_items'        => __( 'Search Project', 'zerman' ),\n        'not_found'           => __( 'Not Found', 'zerman' ),\n        'not_found_in_trash'  => __( 'Not found in Trash', 'zerman' ),\n    );\n     \n// Set other options for Custom Post Type\n     \n    $args = array(\n        'label'               => __( 'projects', 'zerman' ),\n        'description'         => __( 'Projects in Code-Forever', 'zerman' ),\n        'labels'              => $labels,\n        'supports'            => array( 'title', 'editor', 'excerpt', 'author', 'thumbnail', 'comments', 'revisions', 'custom-fields', ),\n        'taxonomies'          => array( 'genres' ),\n        'hierarchical'        => false,\n        'public'              => true,\n        'show_ui'             => true,\n        'show_in_menu'        => true,\n        'show_in_nav_menus'   => true,\n        'show_in_admin_bar'   => true,\n        'menu_position'       => 5,\n        'can_export'          => true,\n        'has_archive'         => true,\n        'exclude_from_search' => false,\n        'publicly_queryable'  => true,\n        'capability_type'     => 'post',\n        'show_in_rest' => true,\n \n    );\n     \n\n    register_post_type( 'projects', $args );\n \n}\n\n \nadd_action( 'init', 'post_type_project', 0 );"
+  },
+  {
+    "objectID": "posts/jekyll-plugins.html",
+    "href": "posts/jekyll-plugins.html",
+    "title": "Jekyll Plugins",
+    "section": "",
+    "text": "Jekyll-inline-highlight\njekyll-redirect-from\njekyll-gallery-generator\njekyll-spaceship\njekyll-analytics\njekyll-embed-video\njekyll-relative-links\njekyll-lazy-tweet-embedding\njekyll-loading-lazy\njekyll-uncss\njekyll-instagram\njekyll-spotify\njekyll-image-optimizer\ngithub-cards\ndisqus-for-jekyll\njekyll-patreon\njekyll-preview-tag\njekyll-youtube\nliquid-reading-time\njekyll-toc\njekyll-email-protect\njekyll-twitter\njekyll-contentblocks\njekyll-oembed\njekyll-seo-tag\njekyll-sitemap\njekyll-auto-image"
+  },
+  {
+    "objectID": "posts/observer-js.html",
+    "href": "posts/observer-js.html",
+    "title": "Observer Pattern in JavaScript",
+    "section": "",
+    "text": "var targetObj = {};\nvar targetProxy = new Proxy(targetObj, {\n set: function (target, key, value) {\n console.log(`${key} set to ${value}`);\n target[key] = value;\n return true;\n }\n});\n\ntargetProxy.hello_world = \"test\"; // console: 'hello_world set to test'"
+  },
+  {
+    "objectID": "posts/web-ad-sizes.html",
+    "href": "posts/web-ad-sizes.html",
+    "title": "Furkan Zerman",
+    "section": "",
+    "text": "Leaderboard - 728 x 90 px\nLarge Rectangle - 336 x 280 px\nMedium Rectangle - 300 x 250 px\nWide Skyscraper - 160 x 600 px\nSkyscraper - 120 x 600 px\nButton - 1 120 x 90 px\nButton 2 - 120 x 60 px\nMicrobar - 88 x 31 px"
+  },
+  {
+    "objectID": "posts/web-ad-sizes.html#what-are-the-common-types-of-web-ads",
+    "href": "posts/web-ad-sizes.html#what-are-the-common-types-of-web-ads",
+    "title": "Furkan Zerman",
+    "section": "What are the common types of web ads?",
+    "text": "What are the common types of web ads?\n\nLeaderboard\nThe leaderboard is most commonly positioned above the main content of a page and its size is 728 x 90 pixels. This size is a favorite among advertisers, and is believed to be one of the top-performing ad sizes. It is usually placed right at the top of the page, so that it immediately captures a user’s attention. It is also sometimes called Super Banner.\n\n\nLarge rectangle\nIts size is 336 x 280 pixels and works well when placed in between paragraphs or at the end of a body of text.\n\n\nMedium rectangle (MREC)\nThis is also known as a square ad. With dimensions of 300 x 250 pixels, this size is smaller than the leaderboard, and has proven to be high-performing. An MREC usually appears near the top of a webpage, and works best when placed before the fold.\n\n\nWide skyscraper\nThis web ad is sized at 160 x 600 pixels. Like the building with the same name, this ad unit tends to stay within a user’s line of sight, even when scrolling through a webpage and can therefore hold attention for a longer time.\n\n\nSkyscraper\nThis size is for more narrow spaces that can’t fit the wide skyscraper and its dimensions are 120x90.\n\n\nButton 1 and Button 2\nThese sizes are most commonly used for branding and co-sharing purposes. Their small size make them an excellent way to share images as part of a branding exercise or as a method of thanking other brands. Button 1 is 120 x 90 pixels while Button 2 is 120 x 60 pixels.\n\n\nMicrobar\nAt 88 x 31 pixels, this small sized ad unit is useful for its set purpose as a bar to transition to a different page. However, it lacks the extensive use and discussion warranted by larger sizes."
+  },
+  {
+    "objectID": "posts/blogger-feed.html",
+    "href": "posts/blogger-feed.html",
+    "title": "Blogger JSON Feed",
+    "section": "",
+    "text": "If you want to search your post by label, you can use this link for “Blogger” label.\n/feeds/posts/default/-/Blogger?alt=json\n\nYou can use updated-min parameter\nhttps://design-coach-glossary.blogspot.com/feeds/posts/default?alt=json&updated-min=2020-03-14T15:15:00-14:00\n\nJSON Feed API’de maksimum sonuçları belirlemek için max-results parametresini (ex: max-results=250) kullanın.\nblogname.blogspot.com/feeds/posts/default?alt=json&max-results=250\n\nJSON Feed API’de arama yapmak için q parametresini (ex: q=word) kullanın.\nFor posts: blogname.blogspot.com/feeds/posts/default?alt=json&q=word For Pages: blogname.blogspot.com/feeds/pages/default?alt=json&q=word"
+  },
+  {
+    "objectID": "posts/ckeditor-for-wordpress.html",
+    "href": "posts/ckeditor-for-wordpress.html",
+    "title": "Ckeditor(textarea) for wordpress plugins",
+    "section": "",
+    "text": "<script src=\"https://cdn.ckeditor.com/4.16.1/standard/ckeditor.js\">\n  <script>\n    CKEDITOR.replace('TEXTAREA_ID', {\n      height: 400,\n      baseFloatZIndex: 10005\n    });\n    </script>"
+  },
+  {
+    "objectID": "posts/wp-hooks.html",
+    "href": "posts/wp-hooks.html",
+    "title": "Wp Hooks",
+    "section": "",
+    "text": "wp_insert_post\npost_action_${action}\nadmin_post_${action}"
+  },
+  {
+    "objectID": "posts/detect-shortkey-js.html",
+    "href": "posts/detect-shortkey-js.html",
+    "title": "How to detect when a shortcut key is pressed in javascript",
+    "section": "",
+    "text": "document.onkeydown = keydown;\n\nfunction keydown(evt){\n  if (!evt) evt = event;\n  if (evt.ctrlKey && evt.altKey && evt.keyCode==115){ //CTRL+ALT+F4\n    alert(\"CTRL+ALT+F4\"); \n  }\n  else if (evt.shiftKey && evt.keyCode == 9){ //Shif+TAB\n    alert(\"Shift+TAB\");\n  }\n}"
   },
   {
     "objectID": "index.html",
@@ -60,6 +179,13 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Kapseli\n\n\n\n\n\n\nFurkan Zerman\n\n\n\n\n\n\n\n\n\n\n \n\n\n\ndbBuilder.py\n\n\n\n\n\n\nFurkan Zerman\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nKabina CMS\n\n\n\n\n\n\nFurkan Zerman\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "dbBuilder.py\n\n\n\n\n\n\nFurkan Zerman\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKapseli\n\n\n\n\n\n\nFurkan Zerman\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nKabina CMS\n\n\n\n\n\n\nFurkan Zerman\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Posts",
+    "section": "",
+    "text": "The 7–1 Pattern for SASS projects\n\n\n\n\n\n\nFurkan Zerman\n\n\n\n\n\n\n\n\n\n\n\nWp Role Functions\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWordPress Custom Post Type\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJekyll Plugins\n\n\n\n\n\n\nFurkan Zerman\n\n\n\n\n\n\n\n\n\n\n\nObserver Pattern in JavaScript\n\n\n\n\n\n\nFurkan Zerman\n\n\n\n\n\n\n\n\n\n\n\nWhat are the common types of web ads?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBlogger JSON Feed\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCkeditor(textarea) for wordpress plugins\n\n\n\n\n\n\nFurkan Zerman\n\n\n\n\n\n\n\n\n\n\n\nWp Hooks\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow to detect when a shortcut key is pressed in javascript\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

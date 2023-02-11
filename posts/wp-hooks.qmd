@@ -1,0 +1,7 @@
+---
+title: "Wp Hooks"
+---
+
+* wp_insert_post
+* post_action_${action}
+* admin_post_${action}

@@ -1,0 +1,15 @@
+---
+title: "Ckeditor(textarea) for wordpress plugins"
+author: "Furkan Zerman"
+categories: [Ckeditor, WordPress]
+---
+
+```js
+  <script src="https://cdn.ckeditor.com/4.16.1/standard/ckeditor.js">
+  <script>
+    CKEDITOR.replace('TEXTAREA_ID', {
+      height: 400,
+      baseFloatZIndex: 10005
+    });
+    </script>
+```

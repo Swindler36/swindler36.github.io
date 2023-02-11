@@ -1,0 +1,28 @@
+---
+title: "Blogger JSON Feed"
+---
+
+If you want to search your post by label, you can use this link for "Blogger" label.
+
+/feeds/posts/default/-/Blogger?alt=json
+
+---
+
+You can use updated-min parameter
+
+https://design-coach-glossary.blogspot.com/feeds/posts/default?alt=json&updated-min=2020-03-14T15:15:00-14:00
+
+---
+
+JSON Feed API'de maksimum sonuçları belirlemek için max-results parametresini (ex: max-results=250) kullanın.
+
+blogname.blogspot.com/feeds/posts/default?alt=json&max-results=250
+
+---
+
+JSON Feed API'de arama yapmak için q parametresini (ex: q=word) kullanın.
+
+For posts: 
+blogname.blogspot.com/feeds/posts/default?alt=json&q=word
+For Pages:
+blogname.blogspot.com/feeds/pages/default?alt=json&q=word

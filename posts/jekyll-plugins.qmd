@@ -1,0 +1,33 @@
+---
+title: "Jekyll Plugins"
+author: "Furkan Zerman"
+categories: [Jekyll]
+---
+
+* Jekyll-inline-highlight
+* jekyll-redirect-from
+* jekyll-gallery-generator
+* jekyll-spaceship
+* jekyll-analytics
+* jekyll-embed-video
+* jekyll-relative-links
+* jekyll-lazy-tweet-embedding
+* jekyll-loading-lazy
+* jekyll-uncss
+* jekyll-instagram
+* jekyll-spotify
+* jekyll-image-optimizer
+* github-cards
+* disqus-for-jekyll
+* jekyll-patreon
+* jekyll-preview-tag
+* jekyll-youtube
+* liquid-reading-time
+* jekyll-toc
+* jekyll-email-protect
+* jekyll-twitter
+* jekyll-contentblocks
+* jekyll-oembed
+* jekyll-seo-tag
+* jekyll-sitemap
+* jekyll-auto-image

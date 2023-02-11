@@ -5,7 +5,7 @@ categories: [vdom, rendering, state management]
 ---
 
 <center>
-![Cover Image](image.png)
+![Cover Image](../assets/kapseli-cover.png)
 </center>
 
 A Framework for creating a SPA dashboard application. Designed for performance and flexibility.

@@ -1,0 +1,35 @@
+---
+title: ""
+---
+
+* Leaderboard - 728 x 90 px
+* Large Rectangle - 336 x 280 px
+* Medium Rectangle - 300 x 250 px
+* Wide Skyscraper - 160 x 600 px
+* Skyscraper - 120 x 600 px
+* Button - 1 120 x 90 px
+* Button 2 - 120 x 60 px
+* Microbar - 88 x 31 px
+
+## What are the common types of web ads?
+### Leaderboard
+
+The leaderboard is most commonly positioned above the main content of a page and its size is 728 x 90 pixels. This size is a favorite among advertisers, and is believed to be one of the top-performing ad sizes. It is usually placed right at the top of the page, so that it immediately captures a user’s attention. It is also sometimes called Super Banner.
+
+### Large rectangle
+Its size is 336 x 280 pixels and works well when placed in between paragraphs or at the end of a body of text.
+
+### Medium rectangle (MREC)
+This is also known as a square ad. With dimensions of 300 x 250 pixels, this size is smaller than the leaderboard, and has proven to be high-performing. An MREC usually appears near the top of a webpage, and works best when placed before the fold.
+
+### Wide skyscraper
+This web ad is sized at 160 x 600 pixels. Like the building with the same name, this ad unit tends to stay within a user’s line of sight, even when scrolling through a webpage and can therefore hold attention for a longer time.
+
+### Skyscraper
+This size is for more narrow spaces that can’t fit the wide skyscraper and its dimensions are 120x90.
+
+### Button 1 and Button 2
+These sizes are most commonly used for branding and co-sharing purposes. Their small size make them an excellent way to share images as part of a branding exercise or as a method of thanking other brands. Button 1 is 120 x 90 pixels while Button 2 is 120 x 60 pixels.
+
+### Microbar
+At 88 x 31 pixels, this small sized ad unit is useful for its set purpose as a bar to transition to a different page. However, it lacks the extensive use and discussion warranted by larger sizes.

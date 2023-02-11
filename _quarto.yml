@@ -12,6 +12,7 @@ website:
     left:
       - projects.qmd
       - links.qmd
+      - posts.qmd
     right:
       - icon: github
         href: https://github.com/Swindler36
