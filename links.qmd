@@ -22,8 +22,6 @@ about:
     - icon: medium
       text: Medium
       href: https://medium.com/stingy-developer
-    - text: Stingy Notes
-      href: https://stingy-notes.blogspot.com/
     - text: itch.io
       href: https://stingydeveloper.itch.io/
     - icon: youtube
