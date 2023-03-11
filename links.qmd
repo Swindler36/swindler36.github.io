@@ -9,8 +9,6 @@ about:
     - icon: github
       text: Github
       href: https://github.com/Swindler36
-    - text: Dev Blog
-      href: https://swindler36.github.io/blog/
     - text: GDBeginner
       href: http://gdbeginner.com/
     - text: Kapseli

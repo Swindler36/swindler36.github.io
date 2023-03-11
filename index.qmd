@@ -10,8 +10,6 @@ about:
     - icon: github
       text: Github
       href: https://github.com/Swindler36
-    - text: Dev Blog
-      href: https://swindler36.github.io/blog/
     - text: GDBeginner
       href: http://gdbeginner.com/
     - text: Kapseli
@@ -24,7 +22,7 @@ about:
 
 I am Furkan "Stingy Dev" Zerman. A junior web developer and university student. 3+ years experienced on web development (front-end and back-end). 1+ years experinced on mobile app development (react-native). You can find all necessary links in [Links Page](links.qmd)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Swindler36&show_icons=true&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=fzerman&show_icons=true&hide_border=true)
 
 
 ## My Interests
