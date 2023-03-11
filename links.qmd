@@ -8,7 +8,7 @@ about:
       href: https://www.linkedin.com/in/furkan-zerman-6592851b4
     - icon: github
       text: Github
-      href: https://github.com/Swindler36
+      href: https://github.com/fzerman
     - text: GDBeginner
       href: http://gdbeginner.com/
     - text: Kapseli
@@ -16,7 +16,7 @@ about:
     - text: Kabina
       href: https://kabina.stingydev.com/
     - text: dbBuilder.py
-      href: https://swindler36.github.io/dbBuilder.py/
+      href: https://fzerman.github.io/dbBuilder.py/
     - icon: medium
       text: Medium
       href: https://medium.com/stingy-developer

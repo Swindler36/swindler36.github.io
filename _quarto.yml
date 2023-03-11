@@ -7,7 +7,7 @@ website:
   favicon: logo.jpeg
   open-graph: true
   twitter-card: true
-  site-url: swindler36.github.io
+  site-url: fzerman.github.io
   navbar:
     left:
       - projects.qmd
@@ -15,7 +15,7 @@ website:
       - posts.qmd
     right:
       - icon: github
-        href: https://github.com/Swindler36
+        href: https://github.com/fzerman
       - icon: linkedin
         href: https://www.linkedin.com/in/furkan-zerman-6592851b4
 format:

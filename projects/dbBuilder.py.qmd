@@ -8,6 +8,6 @@ This is a mini orm library for python. You can manage your sqlite DB by using th
 
 With django-orm like syntax, it was a good challenge for understand databases and django class structure.
 
-Documentation: [https://swindler36.github.io/dbBuilder.py/](https://swindler36.github.io/dbBuilder.py/)
+Documentation: [https://fzerman.github.io/dbBuilder.py/](https://fzerman.github.io/dbBuilder.py/)
 
-GitHub Repo: [https://github.com/Swindler36/dbBuilder.py](https://github.com/Swindler36/dbBuilder.py)
+GitHub Repo: [https://github.com/fzerman/dbBuilder.py](https://github.com/fzerman/dbBuilder.py)
