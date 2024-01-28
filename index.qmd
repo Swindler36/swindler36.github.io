@@ -20,7 +20,7 @@ about:
       href: https://fzerman.github.io/dbBuilder.py/
 ---
 
-I am Furkan "Stingy Dev" Zerman. A junior web developer and university student. 3+ years experienced on web development (front-end and back-end). 1+ years experinced on mobile app development (react-native). You can find all necessary links in [Links Page](links.qmd)
+I am Furkan "Stingy Dev" Zerman. A senior full-stack app developer. 4+ years experienced on web development (front-end and back-end). 2+ years experinced on mobile app development (react-native). You can find all necessary links in [Links Page](links.qmd)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=fzerman&show_icons=true&hide_border=true)
 
