@@ -3,10 +3,10 @@ title: "Posts"
 listing:
   contents: posts
   sort: "date desc"
-  type: grid
-  categories: false
-  sort-ui: false
-  filter-ui: false
-page-layout: full
+  type: table
+  categories: true
+  sort-ui: true
+  filter-ui: true
+page-layout: article
 title-block-banner: true
 ---

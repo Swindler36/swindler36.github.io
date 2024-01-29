@@ -1,25 +1,26 @@
 [
   {
-    "listing": "/projects.html",
+    "listing": "/posts.html",
     "items": [
-      "/projects/dbBuilder.py.html",
-      "/projects/kapseli.html",
-      "/projects/kabina-csm.html"
+      "/posts/web-ad-sizes.html",
+      "/posts/sass-pattern.html",
+      "/posts/wp-custom-post-types.html",
+      "/posts/detect-shortkey-js.html",
+      "/posts/wp-hooks.html",
+      "/posts/observer-js.html",
+      "/posts/wp-roles.html",
+      "/posts/jekyll-plugins.html",
+      "/posts/blogger-feed.html",
+      "/posts/ckeditor-for-wordpress.html"
     ]
   },
   {
-    "listing": "/posts.html",
+    "listing": "/projects.html",
     "items": [
-      "/posts/sass-pattern.html",
-      "/posts/wp-roles.html",
-      "/posts/wp-custom-post-types.html",
-      "/posts/jekyll-plugins.html",
-      "/posts/observer-js.html",
-      "/posts/web-ad-sizes.html",
-      "/posts/blogger-feed.html",
-      "/posts/ckeditor-for-wordpress.html",
-      "/posts/wp-hooks.html",
-      "/posts/detect-shortkey-js.html"
+      "/projects/patiwe.html",
+      "/projects/dbBuilder.py.html",
+      "/projects/kabina-csm.html",
+      "/projects/kapseli.html"
     ]
   }
 ]

@@ -10,7 +10,7 @@ about:
       text: Github
       href: https://github.com/fzerman
     - text: GDBeginner
-      href: http://gdbeginner.com/
+      href: https://gdbeginner.hashnode.dev
     - text: Kapseli
       href: https://kapseli.stingydev.com/
     - text: Kabina

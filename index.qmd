@@ -4,6 +4,9 @@ image: logo.jpeg
 about:
   template: jolla
   links:
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/in/furkan_zerman
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/furkan-zerman-6592851b4
@@ -11,7 +14,7 @@ about:
       text: Github
       href: https://github.com/fzerman
     - text: GDBeginner
-      href: http://gdbeginner.com/
+      href: https://gdbeginner.hashnode.dev
     - text: Kapseli
       href: https://kapseli.stingydev.com/
     - text: Kabina
