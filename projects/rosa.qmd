@@ -1,0 +1,11 @@
+---
+title: "Rosa"
+author: "Furkan Zerman"
+categories: [mobileapp, startup, reactnative, nodejs, dating]
+---
+
+Rosa is a dating app to find your crush via Instagram. 
+
+[Website](https://www.userosa.com)
+
+[Apple](https://apps.apple.com/tr/app/rosaapp/id1667355346?l=tr)
